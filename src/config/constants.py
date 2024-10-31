@@ -1,0 +1,4 @@
+# Environments
+ENVIRONMENT = "ENVIRONMENT"
+TEST = "TEST"
+DEV = "DEV"
